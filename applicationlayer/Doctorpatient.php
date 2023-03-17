@@ -9,7 +9,7 @@
 
 <body>
 	<div class="wrapper">
-		<div class="btn" > <a href="login3.php">
+		<div class="btn" > <a href="http://localhost/Doctorshiv/Doctorshiv/applicationlayer/login2.php">
 
 <button type="button" class="buttonA" > Admin</button>
 
@@ -19,7 +19,7 @@
 
 
 	 <div class="wrapper" style="text-decoration: none;">
-	<div class="btn" > <a href="login.php"  >
+	<div class="btn" > <a href="http://localhost/Doctorshiv/Doctorshiv/applicationlayer/login.php"  >
 <button type="button" class="buttonP">Patient</button>
 </div>
 
@@ -27,7 +27,7 @@
 
 
 	<div class="wrapper" style="text-decoration: none;">
-	<div class="btn" > <a href="login2.php"  >
+	<div class="btn" > <a href="http://localhost/Doctorshiv/Doctorshiv/applicationlayer/login3.php"  >
 <button type="button" class="buttonD">Doctor</button>
         </a>
 </div>
