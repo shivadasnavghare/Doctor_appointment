@@ -2,12 +2,12 @@
 session_start();
 
 // initializing variables
-$username = "";
-$email    = "";
+$username = "tejashospital";
+$email    = "Shiva@123";
 $errors = array(); 
 
 // connect to the database
-$db = mysqli_connect('localhost', 'root', '', 'project');
+$db = mysqli_connect('sqlconnect.database.windows.net', 'tejashospital', 'Shiva@123', 'sqlconnect');
 
 // REGISTER USER
 if (isset($_POST['reg_user'])) {
